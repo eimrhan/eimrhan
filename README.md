@@ -74,8 +74,8 @@ src="https://img.shields.io/github/followers/eimrhan?logo=github&style=for-the-b
 <a href="https://github.com/eimrhan" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eimrhan&langs_count=10&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c191700&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 </p>
 
-<p align="center">
-<a href="http://www.github.com/eimrhan"><img src="https://github-readme-stats.vercel.app/api?username=eimrhan&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c191700&show_icons=true" alt="eimrhan's GitHub stats" /></a> &nbsp; &nbsp; <a href="http://www.github.com/eimrhan"><img src="https://github-readme-streak-stats.herokuapp.com/?user=eimrhan&stroke=ffffff&background=1c191700&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" /></a>
+<p align="center" style="gap: 10rem">
+<a href="http://www.github.com/eimrhan"><img src="https://github-readme-stats.vercel.app/api?username=eimrhan&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c191700&show_icons=true" alt="eimrhan's GitHub stats" /></a> <!--  --> <a href="http://www.github.com/eimrhan"><img src="https://github-readme-streak-stats.herokuapp.com/?user=eimrhan&stroke=ffffff&background=1c191700&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" /></a>
 </p>
 
 <a href="http://www.github.com/eimrhan"><img src="https://github-readme-activity-graph.vercel.app/graph?username=eimrhan&bg_color=1c191700&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
