@@ -15,10 +15,11 @@
 - ✉️	You can contact me at [emirhan@celebi.dev](mailto:emirhan@celebi.dev)
 - 🖥️	 See my portfolio at [celebi.dev](https://celebi.dev)
 - 🚀	I'm currently working on [celebi.dev](https://github.com/eimrhan/celebi.dev)
-- 👯	I’m collaborate on [Tobeto Platform](https://github.com/tobetoNet1B/tobeto-platform-fe)
+- 👯	I’m collaborate on [Tobeto Platform](https://github.com/tobetoNet1B)
 - 📄	Know about my experiences [CV](https://cv.celebi.dev)
 
 - 🧠	I'm currently learning **Next.js**
+- 🎯 	My next goal is **React Native**
 
 ---
 
@@ -30,6 +31,7 @@
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs.svg" width="36" height="36" alt="Next.js" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
